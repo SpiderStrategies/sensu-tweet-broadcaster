@@ -1,0 +1,30 @@
+{
+  "name": "sensu-tweet-broadcaster",
+  "version": "1.0.0",
+  "description": "Sensu plugin for monitor https://github.com/SpiderStrategies/node-tweet-broadcaster tracking keywords — Edit",
+  "bin": {
+    "tweet-tracking": "./bin/tweet-tracking.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SpiderStrategies/sensu-tweet-broadcaster.git"
+  },
+  "keywords": [
+    "sensu",
+    "tweet-broadcaster",
+    "sensu-plugin",
+    "sensu-check"
+  ],
+  "author": "Nathan Bowser <nathan.bowser@spiderstrategies.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiderStrategies/sensu-tweet-broadcaster/issues"
+  },
+  "homepage": "https://github.com/SpiderStrategies/sensu-tweet-broadcaster",
+  "dependencies": {
+    "yargs": "~1.1.3",
+    "airport": "~1.1.0",
+    "seaport": "~1.8.0",
+    "dnode": "~1.2.0"
+  }
+}
