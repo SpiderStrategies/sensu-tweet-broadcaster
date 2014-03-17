@@ -1,6 +1,6 @@
 {
   "name": "sensu-tweet-broadcaster",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Sensu plugin for monitor https://github.com/SpiderStrategies/node-tweet-broadcaster tracking keywords — Edit",
   "bin": {
     "tweet-tracking": "./bin/tweet-tracking.js"
