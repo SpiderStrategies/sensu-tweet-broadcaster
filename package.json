@@ -24,7 +24,7 @@
   "dependencies": {
     "yargs": "~1.1.3",
     "airport": "~1.1.0",
-    "seaport": "~1.8.0",
+    "seaport": "~2.0.2",
     "dnode": "~1.2.0"
   }
 }
